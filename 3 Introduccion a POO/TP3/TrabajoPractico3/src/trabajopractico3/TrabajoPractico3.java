@@ -39,7 +39,7 @@ public class TrabajoPractico3 {
         estudiante.subirCalificacion(puntosMas);
         estudiante.mostrarInfo();
         // Disminuir calificacion
-        estudiante.bajarCalificacion(puntosMas);
+        estudiante.bajarCalificacion(puntosMenos);
         estudiante.mostrarInfo();
         System.out.println("");
     }
